@@ -1,6 +1,6 @@
 /*************************************
   Debug - YamaX Arduino Core v3.0
-  debug block
+  Debug block
   made by coord.e, Y-modify
   Copyright © 2016 Y-modify All Rights Reserved.
 *************************************/

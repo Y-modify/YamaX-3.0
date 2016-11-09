@@ -1,6 +1,6 @@
 /*************************************
   Actions - YamaX Arduino Core v3.0
-  motor control block
+  Motor control block
   made by Nyanyan, Y-modify
   Copyright © 2016 Y-modify All Rights Reserved.
 
