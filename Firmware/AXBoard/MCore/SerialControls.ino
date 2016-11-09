@@ -1,6 +1,6 @@
 /*************************************
   Controls - YamaX Arduino Core v3.0
-  コマンド処理ブロック
+  Command control block
   made by coord.e, Y-modify
   Copyright © 2016 Y-modify All Rights Reserved.
 *************************************/

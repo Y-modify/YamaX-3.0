@@ -1,6 +1,6 @@
 /*************************************
   Networks - YamaX Arduino Core v3.0
-  ネットワーク制御ブロック
+  Networking block
   made by coord.e, Y-modify
   Copyright © 2016 Y-modify All Rights Reserved.
 *************************************/
