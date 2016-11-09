@@ -1,10 +1,11 @@
 /*************************************
   Actions - YamaX Arduino Core v3.0
-  motor control block
+  モーター制御ブロック
   made by Nyanyan, Y-modify
   Copyright © 2016 Y-modify All Rights Reserved.
 
-  define "stand"'s value, then +- to these values
+  standの値をdefineして、
+  それに+とか-して制御するようにしています。
 *************************************/
 
 #include <Wire.h>
